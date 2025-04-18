@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @fumikoba3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+PHPerでWEBアプリ作れます
+AWSもちょっとやれます
 
-<!---
-fumikoba3/fumikoba3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Java,Pythonとかjs/tsとかReactとかVue2/3とか色々触れます
+結局プログラミング言語ってやりたいことがやりやすいか？でしかないと思ってます
 
-specialなリポジトリだと・・・！
+PHPはビルドしなくていいのでWEBアプリには最適だと思ってます。デプロイが楽で好きです
